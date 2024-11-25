@@ -1,0 +1,7 @@
+{
+  "name": "untitled",
+  "packageManager": "yarn@4.5.1",
+  "dependencies": {
+    "@aws-sdk/util-dynamodb": "^3.692.0"
+  }
+}

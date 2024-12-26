@@ -1,3 +1,5 @@
+// 这些数据的来源： Twitter API的标准
+
 export interface Geotag {
     id: string;
     name: string;
@@ -11,7 +13,7 @@ export interface Geotag {
     };
   }
   
-  export interface Tweet {
+  export interface  Tweet {
     id: string;
     userId: string; // associate with twitter id in Vendor
     userName: string;
